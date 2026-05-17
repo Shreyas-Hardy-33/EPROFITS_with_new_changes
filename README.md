@@ -1,5 +1,5 @@
 
 # Install required libraries on jupyter notebook
-!pip install pandas numpy matplotlib seaborn scikit-learn lifelines empulse interpret sklearn-genetic-opt scipy optuna pymoo ipython
+!pip install pandas numpy matplotlib seaborn scikit-learn lifelines empulse interpret sklearn-genetic-opt scipy ipython
 
 
